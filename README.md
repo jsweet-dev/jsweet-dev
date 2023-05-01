@@ -2,14 +2,14 @@ Hi 👋 My name is Jonathan
 =========================
 
 Full stack developer
---------------------
+<!-- --------------------
 
 * 🌍  I'm based in California
 * 🖥️  See my portfolio at [My Portfolio](http://jonpaulsweet.com)
 * ✉️  You can contact me at [jonathan@sweet.support](mailto:jonathan@sweet.support)
 * 🚀  I'm currently working on [f2pool Bitcoin Miner SLA Monitor](http://github.com/jsweet-dev/miner-monitor-stats)
 * 🧠  I'm learning Python
-* 🤝  I'm open to collaborating on
+* 🤝  I'm open to collaborating on -->
 
 ### Skills
 
