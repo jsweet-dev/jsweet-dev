@@ -1,7 +1,3 @@
-Hi 👋 My name is Jonathan
-=========================
-
-Full stack developer
 <!-- --------------------
 
 * 🌍  I'm based in California
